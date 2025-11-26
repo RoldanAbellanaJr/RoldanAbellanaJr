@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 Name: Roldan S. Abellana Jr.
+- 🔭 Education: New Era University
+- 🔭 Certificate: 
+- 🔭 Skillsets: 
 <!--
 **RoldanAbellanaJr/RoldanAbellanaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
