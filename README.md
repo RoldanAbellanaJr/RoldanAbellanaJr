@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## NAME : Roldan S. Abellana Jr.
 
 ## EDUCATION
@@ -7,7 +5,8 @@
 - New Era University
 - 2024 - Present
   
-CERTIFICATE(S):
+## CERTIFICATE(S):
+
 [SQL and Relational Databases 101 :](https://courses.cognitiveclass.ai/certificates/3e6a01421f834d18844f0a588922d539)
 SKILLSET: 
 
