@@ -7,7 +7,7 @@
   
 ## CERTIFICATION:
 
-[SQL and Relational Databases 101 :](https://courses.cognitiveclass.ai/certificates/3e6a01421f834d18844f0a588922d539)
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3e6a01421f834d18844f0a588922d539)
 
 ## SKILLSET: 
 <!--
