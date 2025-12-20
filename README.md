@@ -11,6 +11,8 @@
 
 [Oracle Data Platform Foundation Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=52BFB47A88F34D5D5C5F1E049AC767578E08C8C0E47F603D00EC575BB31EE0EB)
 
+[Oracle Cloud Infastructure AI Foundation Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0CAA8AD10C534D885DFF6C7F9F597F76722C6D2570B01670C900BFED2BE9B54)
+
 ## SKILLSET: 
 
 Java Programming
