@@ -1,4 +1,5 @@
 ## NAME : Roldan S. Abellana Jr.
+I am Roldan S. Abellana, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 ## EDUCATION
 - BS Information Technology
@@ -15,6 +16,13 @@
 
 [Oracle Cloud Infastructure AI Foundation Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0CAA8AD10C534D885DFF6C7F9F597F76722C6D2570B01670C900BFED2BE9B54)
 
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/c2b24de4d5cb415c88d21fd718a51ca0)
+
 ## SKILLSET: 
 
-Java Programming
+Programming: Java, Python
+Databases: IBM DB2 Cloud
+Tools: Lucidchart, JasperStudio, Eclipse, Pentaho, Pycharm, Visual Studio Code
+
+You may reach me at:
+Email: abellanajr.roldan@gmail.com
