@@ -19,9 +19,9 @@ My name is Roldan S. Abellana Jr., with a flair for coding and database manageme
 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/c2b24de4d5cb415c88d21fd718a51ca0)
 
 # SKILLSET: 
-Programming: Java, Python
-Databases: IBM DB2 Cloud
-Tools: Lucidchart, JasperStudio, Eclipse, Pentaho, Pycharm, Visual Studio Code
+- Programming: Java, Python
+- Databases: IBM DB2 Cloud
+- Tools: Lucidchart, JasperStudio, Eclipse, Pentaho, Pycharm, Visual Studio Code
 
 
 
