@@ -1,5 +1,5 @@
 ## NAME : Roldan S. Abellana Jr.
-I am Roldan S. Abellana, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+My name is Roldan S. Abellana Jr., with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 ## EDUCATION
 - BS Information Technology
